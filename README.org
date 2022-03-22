@@ -1,0 +1,6 @@
+#+title: DoTheMath
+
+* DoTheMath
+
+** Description
+   Practice math from the commandline.
